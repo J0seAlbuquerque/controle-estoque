@@ -1,10 +1,10 @@
-# [Dashboard - Discplina de Programação Web](https://adminlte.io)
+# [Dashboard - Disciplina de Programação Web](https://github.com/J0seAlbuquerque/controle-estoque?tab=readme-ov-file)
 
-[![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
+Template Bootstrap -> [![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
 
 **Controle de Estoque** Repositorio dedicado a cumprir a atividade da disciplina de Programação Web
 
-## Discente
+## Discentes
 1. `José Orlando`
 2. `Pedro Moreira`
 
